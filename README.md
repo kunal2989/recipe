@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 ### This is a LOCAL change :)
-=======
 # recipe
 line 2 changed remotely
 ## Instant Noodles
@@ -12,6 +10,4 @@ Reqired Ingredients
 
 Cook - Kunal Dhir
 last line changed locally
-<<<<<<< HEAD
-### This is a LOCAL change :)
-=======
+### This is a REMOTE change :O
