@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 ### This is a LOCAL change :)
 =======
-### This is a REMOTE change :O
->>>>>>> c6c057e4621d4d8ef7ee28c78391cd6db8b4009f
 # recipe
 line 2 changed remotely
 ## Instant Noodles
@@ -17,5 +15,3 @@ last line changed locally
 <<<<<<< HEAD
 ### This is a LOCAL change :)
 =======
-### This is a REMOTE change :O
->>>>>>> c6c057e4621d4d8ef7ee28c78391cd6db8b4009f
