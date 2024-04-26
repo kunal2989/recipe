@@ -1,13 +1,10 @@
-### This is a LOCAL change :)
 # recipe
-line 2 changed remotely
-## Instant Noodles
+
+### Instant Noodles
 A simple recipe for making instant noodles.
 
-Reqired Ingredients 
-- Laziness
-- Appreciation for instant noodles
+Required Ingredients 
+1. Laziness
+2. Appreciation for instant noodles
 
-Cook - Kunal Dhir
-last line changed locally
-### This is a REMOTE change :O
+Cook - **Kunal Dhir**
